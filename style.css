@@ -53,6 +53,7 @@ form, input, div {
 }
 /* CSS Content */
 .contents {
+  margin-top: -60px;
   background-color: #b4dbf6;
   width: 100%;
 
